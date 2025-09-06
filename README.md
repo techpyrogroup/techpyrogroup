@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://techpyro.com">
-    <img src="https://drive.google.com/file/d/15TNN1BjXe-jL0KTiByhIGLUV1DnyVkHa/view?usp=sharing" alt="MasterHead">
+    <img src="https://techpyro-bucket.sgp1.cdn.digitaloceanspaces.com/techpyro/Screenshot%202025-09-06%20123842.png" alt="MasterHead">
   </a>
 </div>
 
