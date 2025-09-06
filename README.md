@@ -25,7 +25,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techpyrogroup&label=Profile%20views&color=0e75b6&style=flat" alt="techpyrogroup" /> </p>
 
-- 👨‍💻 Visit Our Official Website  [Techpyro](https://www.techpyro.com)
+- 👨‍💻 Visit Our Official Website  [www.techpyro.com](https://www.techpyro.com)
 
 - 💬 Ask me about **MERN, React Native, Next.js, DevOps, Blockchain, Web3.js**
 
